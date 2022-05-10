@@ -94,7 +94,5 @@ class ContenedorArchivo {
 
 }
 
-// let contenedor = new ContenedorArchivo('./productos.txt')
-// contenedor.updateProducto(1652102912326, {title: "holasa", price: 12345, thumbnail: "tuki.jpg"})
 
 module.exports = ContenedorArchivo;

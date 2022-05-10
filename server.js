@@ -2,7 +2,9 @@ const express = require('express');
 const routerApiProductos = require('./routers/routerApiProductos.js');
 const app = express();
 const PORT = 8080;
-//==============================
+
+
+
 app.use(routerApiProductos);
 
 
