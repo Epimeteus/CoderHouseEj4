@@ -10,12 +10,12 @@ Consigna: Realizar un proyecto de servidor basado en node.js y express que ofrez
 
 Cada producto estará representado por un objeto con el siguiente formato:
 
-```json
+json
 {
     title: (nombre del producto),
     price: (precio),
     thumbnail: (url al logo o foto del producto)
 }
-```
+
 
  Cada ítem almacenado dispondrá de un id obtenido como el instante en que se agregó el nuevo producto ( `${Date.now()}` ). Ese id será utilizado para identificar un producto que va a ser listado en forma individual.
