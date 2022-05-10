@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Ryzen 5600x",
+        "price": 22000,
+        "thumbnail": "procesador.jpg",
+        "id": 12323323883
+    },
+    {
+        "title": "Intel 10400f",
+        "price": 42300,
+        "thumbnail": "intel.jpg",
+        "id": "23210231326"
+    }
+]
